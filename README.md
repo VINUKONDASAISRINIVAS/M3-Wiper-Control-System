@@ -1,4 +1,4 @@
-# M3_Wiper_Control_System
+# M3 Wiper Control System
 
 
 ![Car-Wipers](https://user-images.githubusercontent.com/101537559/168248548-47c8bcda-df4e-49d6-894d-642a3860c59c.jpg)
